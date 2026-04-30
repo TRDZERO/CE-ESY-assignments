@@ -54,6 +54,7 @@ char read(CircularBuffer *cb) {
 }
 
 int main() {
+    while(true){
     CircularBuffer cb;
     init(&cb);
 
@@ -73,11 +74,13 @@ int main() {
     for (int i = 0; i < strlen(name); i++) {
         write(&cb, name[i]);
     }
-
+    
     for (int i = 0; i < strlen(name); i++)
     {
         printf("%c", read(&cb));
     }
+    printf("\n");
+}
     
     return 0;
 }
