@@ -1,0 +1,7 @@
+Info: Output directory 'C:\Kicad_me\firstPorject\Lap_assignment1' created.
+Plotted to 'C:\Kicad_me\firstPorject\Lap_assignment1\firstPorject.pdf'.
+
+Plotted to 'C:\Kicad_me\firstPorject\Lap_assignment1\firstPorject.pdf'.
+
+Info: Done.
+Info: Done.
